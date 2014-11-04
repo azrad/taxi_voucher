@@ -4,3 +4,5 @@
 
 <!-- Add fix when printing new voucher -->
 
+<?php redirect_to('send_email.php') ?>
+
